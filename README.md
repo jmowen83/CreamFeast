@@ -8,9 +8,9 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-ally.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-creamfeast.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-ally.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://backend-creamfeast.herokuapp.com/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-ally.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-https://github.com/DynoVinci/electric-view-main
+git clone https://github.com/jmowen83/CreamFeast.git
 ```
 
 2. Backend setting
